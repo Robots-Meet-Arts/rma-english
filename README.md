@@ -14,19 +14,19 @@ Robots Meet Arts brings robotics and coding into humanities classrooms for prima
 
 ## Contents
 
-**Training Modules**  
+**[Training Modules](1.Training_Module/)**
 The complete 6-module development course for primary school teachers, covering pedagogical approaches, technical skills, and inclusive practices.
 
-**Lesson Plans**  
+**[Lesson Plans](2.Curriculum_Lessons/)**
 29 ready-to-use activities: 8 introductory lessons and 21 subject-specific lessons across 7 humanities disciplines.
 
-**Inclusive Implementation**  
+**[Inclusive Implementation](3.Inclusive_Implementation/)**
 Guidelines for adapting lessons to ensure all students can participate fully—addressing gender, learning differences, and cultural diversity.
 
-**Newsletters**  
+**[Newsletters](4.Newsletters/)**
 Project updates, partner news, and dissemination materials.
 
-**Evaluation and Replicability**  
+**Evaluation and Replicability**
 Assessment tools, rubrics, and feedback instruments for measuring learning outcomes and project impact.
 
 ---
