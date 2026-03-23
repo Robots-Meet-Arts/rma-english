@@ -26,8 +26,11 @@ Guidelines for adapting lessons to ensure all students can participate fully—a
 **[Newsletters](4.Newsletters/)**
 Project updates, partner news, and dissemination materials.
 
-**Evaluation and Replicability**
-Assessment tools, rubrics, and feedback instruments for measuring learning outcomes and project impact.
+**[Best Practices](5.Best_Practices/)**
+Best practices report based on the project's experience and outcomes.
+
+**[Complete Lesson Book](RMA_LessonBook_EN.pdf)**
+The full lesson book combining all training content into a single document.
 
 ---
 
