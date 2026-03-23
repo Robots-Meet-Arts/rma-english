@@ -36,10 +36,10 @@ The full lesson book combining all training content into a single document.
 
 ## Other Languages
 
-- Français: [rma-francais](https://github.com/robotsmeetarts/rma-francais)
-- Dutch (Belgium): [rma-dutch](https://github.com/robotsmeetarts/rma-dutch)
-- Ελληνικά: [rma-ellinika](https://github.com/robotsmeetarts/rma-ellinika)
-- Català: [rma-catala](https://github.com/robotsmeetarts/rma-catala)
+- Français: [rma-francais](https://github.com/Robots-Meet-Arts/rma-francais)
+- Dutch (Belgium): [rma-dutch](https://github.com/Robots-Meet-Arts/rma-dutch)
+- Ελληνικά: [rma-ellinika](https://github.com/Robots-Meet-Arts/rma-ellinika)
+- Català: [rma-catala](https://github.com/Robots-Meet-Arts/rma-catala)
 
 ---
 
